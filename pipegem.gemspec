@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["daniel.morales.miguel@gmail.com"]
 
   spec.summary       = %q{Pipedrive API v1 Gem for Ruby}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = %q{This GEM will allow you to connect to the Pipedrive API v1 with an easy and ActiveRecord like way.}
   spec.homepage      = "https://github.com/danalex93/pipegem"
   spec.license       = "MIT"
 
